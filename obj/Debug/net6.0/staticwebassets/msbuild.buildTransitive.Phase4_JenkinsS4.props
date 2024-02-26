@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Phase4_JenkinsS4.props" />
+</Project>
