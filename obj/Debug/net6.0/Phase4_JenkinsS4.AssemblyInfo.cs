@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Phase4_JenkinsS4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc2f30cf01d3ed30d36788bd63d8931dd3057f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Phase4_JenkinsS4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Phase4_JenkinsS4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Phase4_JenkinsS4.Models;
 using System.Diagnostics;
+using WebAppPizza.Models;
 
-namespace Phase4_JenkinsS4.Controllers
+namespace WebAppPizza.Controllers
 {
     public class HomeController : Controller
     {

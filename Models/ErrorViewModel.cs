@@ -1,4 +1,4 @@
-namespace Phase4_JenkinsS4.Models
+namespace WebAppPizza.Models
 {
     public class ErrorViewModel
     {
